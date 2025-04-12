@@ -1,7 +1,7 @@
 # Facebook-Marketplace-Engagement-Metrics
 
 
-Objective: To understand the levels of engagement on the Facebook Marketplace platform and what factors drive interactions on the platform
+Objective: To understand the factors that drive the levels of engagement on the Facebook Marketplace platform to boost audience interaction and optimize content strategy
 
 
 Guiding questions:
